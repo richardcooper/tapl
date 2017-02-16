@@ -1,4 +1,4 @@
-# TaPL Chapter 4 - ~~An ML~~* A Python* Implementation of Arithmetic Expressions
+# TaPL Chapter 4 - ~~An ML~~*A Python* Implementation of Arithmetic Expressions
 
 Chapter 3 of [TaPL](https://www.cis.upenn.edu/~bcpierce/tapl/) describes a
 simple untyped language of boolean and arithmetic expressions. Chapter 4 goes on
@@ -17,4 +17,4 @@ Briefly a program in the language consists of a single expression built from:
 
 More information can be found on the LCC wiki:
 - [Discussion of the material](https://github.com/computationclub/computationclub.github.io/wiki/Types-and-Programming-Languages-Chapter-3-Untyped-Arithmetic-Expressions)
-- [Implementations by other members](https://github.com/computationclub/computationclub.github.io/wiki/Types-and-Programming-Languages-Chapter-3-Untyped-Arithmetic-Expressions)
+- [Implementations by other members](https://github.com/computationclub/computationclub.github.io/wiki/Types-and-Programming-Languages-Chapter-4-An-ML-Implementation-of-Arithmetic-Expressions)

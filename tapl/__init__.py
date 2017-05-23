@@ -1,0 +1,1 @@
+from .chapter_09_simply_typed_lambda_calculus import SimplyTypedLambdaCalculus

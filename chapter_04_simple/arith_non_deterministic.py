@@ -261,7 +261,8 @@ def evaluate(term, rules):
 if __name__ == '__main__':
     # Demonstrate non-determinism using E_Funny1
     term = if_(true_, true_, false_)
-    print('The rule E_Funny1 introduces non-determinism by breaking if:')
+    print('The rule E_Funny1 introduces non-determinism by breaking the')
+    print('definition of "if":')
     print('For example, using the normal rules:')
     print(f'    reduce({term})')
     reductions = list(reduce(term, rules))

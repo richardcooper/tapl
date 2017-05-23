@@ -1,0 +1,12 @@
+# Byte-compiled files
+__pycache__/
+
+# Testing
+.coverage
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+venv/

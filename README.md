@@ -13,3 +13,6 @@ The Jupyter notebooks in this repo are best viewed locally or on
 Github will display the notebooks but it [blocks custom
 CSS](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/) which
 makes the derivation trees render badly.
+
+The notebooks all use my `inference` library which can be found [on
+GitHub](https://github.com/richardcooper/inference).
